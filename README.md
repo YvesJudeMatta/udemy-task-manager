@@ -27,7 +27,7 @@ Include `config` folder with the following files `dev.env` and `test.env` with t
 
 ```
 PORT={}
-SENDGRID_API_KEY={SENDGRID_API_KEY}
+SENDGRID_API_KEY={}
 MONGODB_URL={}
 JWT_SECRET={}
 ```
