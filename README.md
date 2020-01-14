@@ -32,6 +32,24 @@ MONGODB_URL={}
 JWT_SECRET={}
 ```
 
+`examples`:
+
+```
+// /config/dev.env
+PORT=3000
+SENDGRID_API_KEY=SG.sdjkskdajkjaskjdjl2jklj2
+MONGODB_URL=mongodb://127.0.0.1:27017/task-manager-api
+JWT_SECRET=asdklkldsa
+```
+
+```
+// /config/test.env
+PORT=3000
+SENDGRID_API_KEY=SG.sdjkskdajkjaskjdjl2jklj2
+MONGODB_URL=mongodb://127.0.0.1:27017/task-manager-api-test
+JWT_SECRET=asdklkldsa
+```
+
 Start server
 
 ```
