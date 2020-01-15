@@ -6,7 +6,7 @@ Node Express API to manage users and associated tasks. Simple idea used to demon
 
 Kept comments in this repo to re-encorce other implementations that could be done.
 
-It hosted on Heroku at this [url][hosted-url].
+Code is written while following [The Complete Node.js Developer Course (3rd Edition)][udemy-course]
 
 ## Run locally
 
@@ -182,5 +182,4 @@ data-postman-var-1="70c0b288b32335e8895b"></div>
 
 
 [udemy-course]: https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
-[hosted-url]: https://node-complete-task-manager.herokuapp.com/
 [install-heroku]: https://devcenter.heroku.com/articles/heroku-cli
